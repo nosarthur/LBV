@@ -9,11 +9,15 @@ More details about the algorithm can be found in the publication:
 
 ## Files
 
-* LBV.m - the Matlab wrapper
-* MGv6.cpp - the source code
-* mexMGv6.cpp - the source code for mex file 
-* mexMGv6.mexa64 - the mex file for Mac
-* mexMGv6.mexw64 - the mex file for Windows
+* LBV.m - Matlab wrapper
+* MGv6.cpp - source code
+* mexMGv6.cpp - source code for mex file 
+* mexMGv6.mexa64 - mex file for Mac
+* mexMGv6.mexw64 - mex file for Windows
 
+## Notes
+
+* Linux users need to compile mexMGv6.cpp to get the corresponding mex file.
+* MGv6.cpp gives rise to a command-line tool
 
 
