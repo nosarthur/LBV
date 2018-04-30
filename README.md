@@ -2,7 +2,7 @@
 
 Background removal for MRI phase data by solving the Laplacian boundary value problem. 
 
-It solves Poisson's equation using full multigrid algorithm. Vanishing boundary condition is assumed.
+It solves Poisson's equation using [full multigrid algorithm](https://en.wikipedia.org/wiki/Multigrid_method). Vanishing boundary condition is assumed.
 
 More details about the algorithm can be found in the publication: 
 
